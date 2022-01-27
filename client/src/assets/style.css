@@ -1,0 +1,18 @@
+/* RESET */
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+/* FONT IMPORT */
+
+@font-face {
+  font-family: "ErasUltra";
+  src: url(./ITC_Eras_Ultra_BT.otf);
+}
